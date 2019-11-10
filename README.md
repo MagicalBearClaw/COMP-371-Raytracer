@@ -2,7 +2,7 @@
 Concordia university computer graphics project. Build a minimal raytracer.
 This ray tracer is multithreaded.
 
-#credits
+# credits
 
 Model/Mesh loading is implemented by using tiny obj loader
 
@@ -16,13 +16,13 @@ Image Displaying and saving of pixel buffer is implemented by using cimg
 
 http://cimg.eu/
 
-#Configuration
+# Configuration
 
 Must be used in x86(either debug or release) in order to build and run the project.
 release will optimize the ray tracing time by a lot.
 on an i7 8700k in release mode, with 10 worker threads, the render time should be sub 1 second.
 
-#Running
+# Running
 in main.cpp you can change the scene and the number of worker threads to raytrace the selected scene.
 
 
