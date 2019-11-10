@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\magicalbearclaw\source\repos\comp371raytracer\comp371raytracer\raytracer.h(5): fatal error C1083: Cannot open include file: 'cimage/CImg.h': No such file or directory
+  Mesh.cpp
+c:\users\magicalbearclaw\source\repos\comp371raytracer\comp371raytracer\mesh.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Object.cpp
+c:\users\magicalbearclaw\source\repos\comp371raytracer\comp371raytracer\object.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Plane.cpp
+c:\users\magicalbearclaw\source\repos\comp371raytracer\comp371raytracer\object.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Ray.cpp
+c:\users\magicalbearclaw\source\repos\comp371raytracer\comp371raytracer\ray.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  RayTracer.cpp
+c:\users\magicalbearclaw\source\repos\comp371raytracer\comp371raytracer\raytracer.h(5): fatal error C1083: Cannot open include file: 'cimage/CImg.h': No such file or directory
+  Scene.cpp
+c:\users\magicalbearclaw\source\repos\comp371raytracer\comp371raytracer\object.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Sphere.cpp
+c:\users\magicalbearclaw\source\repos\comp371raytracer\comp371raytracer\material.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  tiny_obj_loader.cc
+  Triangle.cpp
+c:\users\magicalbearclaw\source\repos\comp371raytracer\comp371raytracer\triangle.h(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
