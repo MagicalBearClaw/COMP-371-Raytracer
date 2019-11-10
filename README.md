@@ -2,7 +2,7 @@
 Concordia university computer graphics project. Build a minimal raytracer.
 This ray tracer is multithreaded.
 
-# credits
+# Credits
 
 Model/Mesh loading is implemented by using tiny obj loader
 
